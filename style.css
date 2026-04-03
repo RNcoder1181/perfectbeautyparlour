@@ -812,3 +812,11 @@ h2.s-title em{font-style:italic;background:var(--grad);-webkit-background-clip:t
   }
   .float-ctas{padding-bottom:max(24px,env(safe-area-inset-bottom))}
 }
+
+.hamburger {
+  display: none !important;
+}
+
+.mobile-menu {
+  display: none !important;
+}
